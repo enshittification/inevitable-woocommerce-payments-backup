@@ -152,7 +152,7 @@
     "prettier": "npm:wp-prettier@2.0.5",
     "process": "0.11.10",
     "react": "16.14.0",
-    "react-dom": "16.14.0",
+    "react-dom": "18.2.0",
     "react-refresh": "0.14.0",
     "react-test-renderer": "16.14.0",
     "react-transition-group": "4.4.5",
