@@ -79,7 +79,7 @@
   "devDependencies": {
     "@automattic/color-studio": "2.3.1",
     "@jest/test-sequencer": "29.5.0",
-    "@pmmmwh/react-refresh-webpack-plugin": "0.5.7",
+    "@pmmmwh/react-refresh-webpack-plugin": "0.5.15",
     "@testing-library/jest-dom": "5.14.1",
     "@testing-library/react": "11.2.5",
     "@testing-library/react-hooks": "8.0.1",
